@@ -1,2 +1,2 @@
 # QuizApp
-[LiveDemo](funny-meerkat-ee0984.netlify.app)
+[LiveDemo](https://funny-meerkat-ee0984.netlify.app)
