@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+* {
+  box-sizing: border-box;
+  font-family: 'Comfortaa',cursive;
+  
+}
+
+body {
+  background-color:white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.quiz-container {
+ background-color: #FFFF66;
+  border-radius:5px;
+  width: 600px;
+  overflow: hidden;
+box-shadow: 5px 5px #ffb600;
+}
+
+.quiz-header {
+  padding: 52px;
+}
+
+h3{
+  padding: 13px;
+  text-align: center;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  font-size: 17px;
+  margin: 13px;
+}
+
+ul li label {
+  cursor: pointer;
+}
+
+button {
+  background-color:#ffb600;
+  color: black;
+  border: none;
+  display: block;
+  width: 50%;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: inherit;
+  padding: 19px;
+  margin-left: 150px;
+  margin-bottom: 15px;
+}
+
+button:hover {
+  background-color: #ff5c00;
+  color: white;
+}
